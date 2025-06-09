@@ -1,5 +1,4 @@
 - 😎 @rakhmonovquvonchbek
--  ㊙️ interested in information security
 -  💻 currently learning 2 programming languages
 -  ✨ looking to collaborate on ai projects
 - 📫 to reach me kuvonchbek42@gmail.com
