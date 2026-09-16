@@ -1,11 +1,11 @@
-- 😎 @rakhmonovquvonchbek
--  💻 currently learning 2 programming languages
--  ✨ looking to collaborate on ai projects
-- 📫 to reach me kuvonchbek42@gmail.com
-- 🙋‍♂️ Pronouns: he/him
-- ⚡ hobbies: 🏓🚴‍♂🏃
+18. Tashkent -> Birmingham. AI & CS @ University of Birmingham.
 
-<!---
-rakhmonovquvonchbek/rakhmonovquvonchbek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build fast and ship:
+- FinePrint Quest - turns terms & conditions into a 2-minute hunt (link when live)
+- supabase-rls-scanner - CLI that fails your CI when Supabase tables leak data across tenants
+- fern - privacy-first subscription auditor that reads Gmail, not your bank (pip install fern-audit)
+
+Currently: founding a Claude Builder Club at UoB, hacking around London AI events.
+
+X: @quvonchbek42
+Email: kuvonchbek42@gmail.com
